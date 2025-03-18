@@ -1,7 +1,7 @@
 # DL_Project-CNN-Model-for-Fashion-MNIST
 
 # ** Detailed Explanation of the CNN Model for Fashion-MNIST**
-This Python script is designed to classify images from the **Fashion-MNIST dataset** using a **Convolutional Neural Network (CNN)** implemented in TensorFlow/Keras. The dataset consists of **grayscale images (28x28 pixels)** of 10 different types of fashion items. The model will be trained to recognize these items and make predictions.  
+Python script is designed to classify images from the **Fashion-MNIST dataset** using a **Convolutional Neural Network (CNN)** implemented in TensorFlow/Keras. The dataset consists of **grayscale images (28x28 pixels)** of 10 different types of fashion items. The model will be trained to recognize these items and make predictions.  
 
 ---
 
